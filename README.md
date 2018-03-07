@@ -1,0 +1,2 @@
+# NewsWebManager
+Proiect Tehnologii Web
